@@ -7,6 +7,10 @@
   <img src="https://github.com/alyyssonSanttos/dnc-movie-list/assets/125829817/1bcb1ea4-36ae-428e-a5bb-df206ef0c57b" width="700px"/>
 </div>
 
+<div align="center">
+  <img src="" width="700px"/>
+</div>
+
 uma interface utilizando React router.
 
 - "Nosso projeto de site de filmes desenvolvido com React Router oferece uma experiência imersiva para os amantes de cinema. Com uma interface amigável e atrativa, o site permite aos usuários explorar uma vasta coleção de filmes organizados por gênero, ano de lançamento, popularidade e muito mais.
