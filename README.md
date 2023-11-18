@@ -3,6 +3,10 @@
 ## Site => https://dnc-movie-list-eight.vercel.app/
 ## GitHub => https://github.com/alyyssonSanttos/dnc-movie-list
 
+<div align="center">
+  <img src="https://github.com/alyyssonSanttos/organizador/assets/125829817/4e415669-72ba-4a10-b426-d1c751b963f3" width="700px"/>
+</div>
+
 uma interface utilizando React router.
 
 - "Nosso projeto de site de filmes desenvolvido com React Router oferece uma experiência imersiva para os amantes de cinema. Com uma interface amigável e atrativa, o site permite aos usuários explorar uma vasta coleção de filmes organizados por gênero, ano de lançamento, popularidade e muito mais.
