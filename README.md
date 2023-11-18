@@ -4,7 +4,7 @@
 ## GitHub => https://github.com/alyyssonSanttos/dnc-movie-list
 
 <div align="center">
-  <img src="https://github.com/alyyssonSanttos/organizador/assets/125829817/4e415669-72ba-4a10-b426-d1c751b963f3" width="700px"/>
+  <img src="!https://github.com/alyyssonSanttos/dnc-movie-list/assets/125829817/1bcb1ea4-36ae-428e-a5bb-df206ef0c57b" width="700px"/>
 </div>
 
 uma interface utilizando React router.
