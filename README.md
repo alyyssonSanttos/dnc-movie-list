@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="" width="700px"/>
+  <img src="https://github.com/alyyssonSanttos/dnc-movie-list/assets/125829817/136906ff-9d4d-4691-98ea-471bc4cb547d" width="700px"/>
 </div>
 
 uma interface utilizando React router.
