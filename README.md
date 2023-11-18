@@ -3,12 +3,16 @@
 ## Site => https://dnc-movie-list-eight.vercel.app/
 ## GitHub => https://github.com/alyyssonSanttos/dnc-movie-list
 
+### Notebook
+
 <div align="center">
   <img src="https://github.com/alyyssonSanttos/dnc-movie-list/assets/125829817/1bcb1ea4-36ae-428e-a5bb-df206ef0c57b" width="700px"/>
 </div>
 
+### Smartphone
+
 <div align="center">
-  <img src="https://github.com/alyyssonSanttos/dnc-movie-list/assets/125829817/136906ff-9d4d-4691-98ea-471bc4cb547d" width="700px"/>
+  <img src="https://github.com/alyyssonSanttos/dnc-movie-list/assets/125829817/136906ff-9d4d-4691-98ea-471bc4cb547d" width="300px"/>
 </div>
 
 uma interface utilizando React router.
